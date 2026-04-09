@@ -176,8 +176,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## 👤 Author
 
 **Aarya Waghmare**  
-[GitHub]((https://github.com/AaryaWaghmare7)) · [LinkedIn]((https://www.linkedin.com/in/aarya-waghmare-90389031b/))
-
+[GitHub](https://github.com/AaryaWaghmare7) · [LinkedIn](https://www.linkedin.com/in/aarya-waghmare-90389031b/)
 ---
 
 > *SecureLens — See through the artificial.*
