@@ -140,7 +140,7 @@ Monitor training live:
 ```bash
 tensorboard --logdir logs/securelens
 ```
-Then open `http://localhost:6006` in your browser.
+Then open `http://127.0.0.1:8000/` in your browser.
 
 ---
 
